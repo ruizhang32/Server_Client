@@ -1,0 +1,19 @@
+<file-mapping>
+
+    <mapping>
+
+        <client>hello.html</client>
+
+        <server>hello-server.html</server>
+
+    </mapping>
+
+    <mapping>
+
+        <client>HelloWorld.action</client>
+
+        <server>HelloWorld.class</server>
+
+    </mapping>
+
+</file-mapping>
